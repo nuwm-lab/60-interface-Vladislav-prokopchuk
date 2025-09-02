@@ -1,4 +1,5 @@
-﻿using System;
+//спроба 2 
+using System;
 using System.Linq;
 
 // Абстрактний клас для працівників
